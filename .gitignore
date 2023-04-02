@@ -1,3 +1,5 @@
 .idea
 poetry.lock
 pyproject.toml
+cmake-build-debug
+*.exe
